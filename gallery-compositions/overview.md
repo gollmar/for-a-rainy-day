@@ -1,7 +1,10 @@
 # Gallery Compositions
 
 Context: art museum
+
 Audience: children
+
+Big ideas: constructivist music composition, cross-domain experience of art
 
 Much of the work of a museum educator revolves around mediating the experience of artworks through language. That is, we talk about art, read about art, and write about art. But what if we used *art* to interact with art? What would that look like?
 
@@ -52,6 +55,16 @@ Ask, "What did you hear?"
 Work on refining your sound as an ensemble. This will likely happen naturally, but you can also encourage the participants to vary their sounds slightly each time. As a conductor, you can also vary the length of the sounds and introduce other gestures to control the sound as well.
 
 When you feel ready, move on to another artwork and repeat this process of exploration.
+
+### Closure
+
+...
+
+### Variations
+
+* Have participants make their own instruments
+* Have participants create a system of notation for their musical gestures
+* Use a slideshow as a way to "conduct" a meta-composition by creating a sequence of artwork images; practice each individually, then chain them together in a larger form
 
 ## Sample Artworks
 
