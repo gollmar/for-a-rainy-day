@@ -30,3 +30,8 @@ Introduce the basic techniques of the musical instruments, highlighting the vari
 Give everyone two minutes to experiment with an instrument of their choice. Then, give them two more minutes to experiment with one or both of their other instruments.
 
 
+## Sample Artworks
+
+![LeWitt](images/lewitt.jpg)
+
+![Davis](images/davis.jpg)
