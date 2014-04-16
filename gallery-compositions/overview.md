@@ -32,6 +32,15 @@ Give everyone two minutes to experiment with an instrument of their choice. Then
 
 ## Sample Artworks
 
+Some thought should be given to the artworks that are chosen for this activity. To discourage overtly programmatic music, avoid artworks that contain representations of people or words. Artworks with a strong visual rhythm might encourage participants to create more dynamic compositions, but this should be balanced with artworks that encourage textural exploration.
+
+Here are a couple of examples from the Smithsonian American Art Museum that would provide interesting contrasts:
+
 ![LeWitt](images/lewitt.jpg)
 
+Color Bands, 2000. Sol LeWitt. 
+
 ![Davis](images/davis.jpg)
+
+Sky Machine, 1981. Gene Davis.
+
